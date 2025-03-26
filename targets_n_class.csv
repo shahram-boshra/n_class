@@ -1,0 +1,1881 @@
+MoleculeName,atom_index,class
+1-Naphthol,0,0
+1-Naphthol,1,1
+1-Naphthol,2,0
+1-Naphthol,3,0
+1-Naphthol,4,1
+1-Naphthol,5,0
+1-Naphthol,6,1
+1-Naphthol,7,1
+1-Naphthol,8,1
+1-Naphthol,9,0
+1-Naphthol,10,0
+1-Naphthol,11,1
+1-Naphthol,12,0
+1-Naphthol,13,0
+1-Naphthol,14,1
+1-Naphthol,15,0
+1-Naphthol,16,1
+1-Naphthol,17,0
+1-Naphthol,18,0
+1-Naphthylamine,0,0
+1-Naphthylamine,1,0
+1-Naphthylamine,2,0
+1-Naphthylamine,3,0
+1-Naphthylamine,4,0
+1-Naphthylamine,5,1
+1-Naphthylamine,6,1
+1-Naphthylamine,7,1
+1-Naphthylamine,8,0
+1-Naphthylamine,9,1
+1-Naphthylamine,10,1
+1-Naphthylamine,11,1
+1-Naphthylamine,12,1
+1-Naphthylamine,13,0
+1-Naphthylamine,14,0
+1-Naphthylamine,15,0
+1-Naphthylamine,16,0
+1-Naphthylamine,17,1
+1-Naphthylamine,18,0
+1-Naphthylamine,19,0
+1-Phenylpropane,0,1
+1-Phenylpropane,1,1
+1-Phenylpropane,2,1
+1-Phenylpropane,3,1
+1-Phenylpropane,4,1
+1-Phenylpropane,5,1
+1-Phenylpropane,6,0
+1-Phenylpropane,7,1
+1-Phenylpropane,8,0
+1-Phenylpropane,9,0
+1-Phenylpropane,10,0
+1-Phenylpropane,11,0
+1-Phenylpropane,12,0
+1-Phenylpropane,13,0
+1-Phenylpropane,14,1
+1-Phenylpropane,15,0
+1-Phenylpropane,16,0
+1-Phenylpropane,17,1
+1-Phenylpropane,18,1
+1-Phenylpropane,19,0
+1-Phenylpropane,20,1
+12-Dichlorobenzene,0,1
+12-Dichlorobenzene,1,1
+12-Dichlorobenzene,2,0
+12-Dichlorobenzene,3,1
+12-Dichlorobenzene,4,1
+12-Dichlorobenzene,5,0
+12-Dichlorobenzene,6,0
+12-Dichlorobenzene,7,1
+12-Dichlorobenzene,8,1
+12-Dichlorobenzene,9,1
+12-Dichlorobenzene,10,1
+12-Dichlorobenzene,11,0
+13-Dichlorobenzene,0,1
+13-Dichlorobenzene,1,1
+13-Dichlorobenzene,2,0
+13-Dichlorobenzene,3,1
+13-Dichlorobenzene,4,1
+13-Dichlorobenzene,5,1
+13-Dichlorobenzene,6,1
+13-Dichlorobenzene,7,0
+13-Dichlorobenzene,8,1
+13-Dichlorobenzene,9,0
+13-Dichlorobenzene,10,0
+13-Dichlorobenzene,11,1
+14-Dichlorobenzene,0,1
+14-Dichlorobenzene,1,0
+14-Dichlorobenzene,2,0
+14-Dichlorobenzene,3,1
+14-Dichlorobenzene,4,0
+14-Dichlorobenzene,5,1
+14-Dichlorobenzene,6,1
+14-Dichlorobenzene,7,0
+14-Dichlorobenzene,8,1
+14-Dichlorobenzene,9,1
+14-Dichlorobenzene,10,0
+14-Dichlorobenzene,11,0
+2-Aminoacetophenone,0,1
+2-Aminoacetophenone,1,1
+2-Aminoacetophenone,2,0
+2-Aminoacetophenone,3,0
+2-Aminoacetophenone,4,1
+2-Aminoacetophenone,5,0
+2-Aminoacetophenone,6,0
+2-Aminoacetophenone,7,0
+2-Aminoacetophenone,8,0
+2-Aminoacetophenone,9,1
+2-Aminoacetophenone,10,0
+2-Aminoacetophenone,11,1
+2-Aminoacetophenone,12,1
+2-Aminoacetophenone,13,1
+2-Aminoacetophenone,14,0
+2-Aminoacetophenone,15,0
+2-Aminoacetophenone,16,0
+2-Aminoacetophenone,17,1
+2-Aminoacetophenone,18,0
+2-Aminophenol,0,1
+2-Aminophenol,1,1
+2-Aminophenol,2,0
+2-Aminophenol,3,1
+2-Aminophenol,4,1
+2-Aminophenol,5,0
+2-Aminophenol,6,0
+2-Aminophenol,7,1
+2-Aminophenol,8,0
+2-Aminophenol,9,1
+2-Aminophenol,10,1
+2-Aminophenol,11,1
+2-Aminophenol,12,1
+2-Aminophenol,13,0
+2-Aminophenol,14,1
+2-Aminotoluene,0,0
+2-Aminotoluene,1,0
+2-Aminotoluene,2,0
+2-Aminotoluene,3,0
+2-Aminotoluene,4,1
+2-Aminotoluene,5,1
+2-Aminotoluene,6,1
+2-Aminotoluene,7,1
+2-Aminotoluene,8,0
+2-Aminotoluene,9,0
+2-Aminotoluene,10,0
+2-Aminotoluene,11,0
+2-Aminotoluene,12,0
+2-Aminotoluene,13,1
+2-Aminotoluene,14,0
+2-Aminotoluene,15,0
+2-Aminotoluene,16,0
+2-Bromoaniline,0,0
+2-Bromoaniline,1,0
+2-Bromoaniline,2,0
+2-Bromoaniline,3,1
+2-Bromoaniline,4,1
+2-Bromoaniline,5,0
+2-Bromoaniline,6,0
+2-Bromoaniline,7,0
+2-Bromoaniline,8,0
+2-Bromoaniline,9,0
+2-Bromoaniline,10,0
+2-Bromoaniline,11,0
+2-Bromoaniline,12,0
+2-Bromoaniline,13,1
+2-Chloroaniline,0,0
+2-Chloroaniline,1,1
+2-Chloroaniline,2,1
+2-Chloroaniline,3,1
+2-Chloroaniline,4,0
+2-Chloroaniline,5,0
+2-Chloroaniline,6,1
+2-Chloroaniline,7,1
+2-Chloroaniline,8,0
+2-Chloroaniline,9,0
+2-Chloroaniline,10,0
+2-Chloroaniline,11,1
+2-Chloroaniline,12,1
+2-Chloroaniline,13,1
+2-Chlorobiphenyl,0,0
+2-Chlorobiphenyl,1,1
+2-Chlorobiphenyl,2,1
+2-Chlorobiphenyl,3,0
+2-Chlorobiphenyl,4,1
+2-Chlorobiphenyl,5,0
+2-Chlorobiphenyl,6,1
+2-Chlorobiphenyl,7,1
+2-Chlorobiphenyl,8,0
+2-Chlorobiphenyl,9,0
+2-Chlorobiphenyl,10,0
+2-Chlorobiphenyl,11,0
+2-Chlorobiphenyl,12,0
+2-Chlorobiphenyl,13,0
+2-Chlorobiphenyl,14,1
+2-Chlorobiphenyl,15,1
+2-Chlorobiphenyl,16,0
+2-Chlorobiphenyl,17,0
+2-Chlorobiphenyl,18,1
+2-Chlorobiphenyl,19,0
+2-Chlorobiphenyl,20,1
+2-Chlorobiphenyl,21,1
+2-Chlorobiphenyl,22,0
+2-Chlorobiphenyl,23,0
+2-Chlorophenol,0,1
+2-Chlorophenol,1,1
+2-Chlorophenol,2,1
+2-Chlorophenol,3,1
+2-Chlorophenol,4,0
+2-Chlorophenol,5,1
+2-Chlorophenol,6,1
+2-Chlorophenol,7,1
+2-Chlorophenol,8,1
+2-Chlorophenol,9,1
+2-Chlorophenol,10,1
+2-Chlorophenol,11,1
+2-Chlorophenol,12,1
+2-EthylAniline,0,0
+2-EthylAniline,1,1
+2-EthylAniline,2,1
+2-EthylAniline,3,0
+2-EthylAniline,4,1
+2-EthylAniline,5,0
+2-EthylAniline,6,1
+2-EthylAniline,7,1
+2-EthylAniline,8,1
+2-EthylAniline,9,1
+2-EthylAniline,10,0
+2-EthylAniline,11,0
+2-EthylAniline,12,1
+2-EthylAniline,13,0
+2-EthylAniline,14,1
+2-EthylAniline,15,0
+2-EthylAniline,16,1
+2-EthylAniline,17,0
+2-EthylAniline,18,1
+2-EthylAniline,19,1
+2-Ethylphenol,0,0
+2-Ethylphenol,1,0
+2-Ethylphenol,2,0
+2-Ethylphenol,3,1
+2-Ethylphenol,4,1
+2-Ethylphenol,5,0
+2-Ethylphenol,6,1
+2-Ethylphenol,7,0
+2-Ethylphenol,8,0
+2-Ethylphenol,9,1
+2-Ethylphenol,10,1
+2-Ethylphenol,11,0
+2-Ethylphenol,12,0
+2-Ethylphenol,13,1
+2-Ethylphenol,14,1
+2-Ethylphenol,15,1
+2-Ethylphenol,16,0
+2-Ethylphenol,17,0
+2-Ethylphenol,18,0
+2-Iodoaniline,0,1
+2-Iodoaniline,1,1
+2-Iodoaniline,2,1
+2-Iodoaniline,3,0
+2-Iodoaniline,4,0
+2-Iodoaniline,5,0
+2-Iodoaniline,6,0
+2-Iodoaniline,7,0
+2-Iodoaniline,8,1
+2-Iodoaniline,9,1
+2-Iodoaniline,10,0
+2-Iodoaniline,11,0
+2-Iodoaniline,12,1
+2-Iodoaniline,13,1
+2-Isopropylphenol,0,0
+2-Isopropylphenol,1,0
+2-Isopropylphenol,2,0
+2-Isopropylphenol,3,1
+2-Isopropylphenol,4,0
+2-Isopropylphenol,5,0
+2-Isopropylphenol,6,1
+2-Isopropylphenol,7,1
+2-Isopropylphenol,8,0
+2-Isopropylphenol,9,0
+2-Isopropylphenol,10,0
+2-Isopropylphenol,11,1
+2-Isopropylphenol,12,1
+2-Isopropylphenol,13,1
+2-Isopropylphenol,14,1
+2-Isopropylphenol,15,0
+2-Isopropylphenol,16,1
+2-Isopropylphenol,17,1
+2-Isopropylphenol,18,1
+2-Isopropylphenol,19,0
+2-Isopropylphenol,20,0
+2-Isopropylphenol,21,1
+2-Methoxybenzaldehyde,0,0
+2-Methoxybenzaldehyde,1,1
+2-Methoxybenzaldehyde,2,1
+2-Methoxybenzaldehyde,3,0
+2-Methoxybenzaldehyde,4,1
+2-Methoxybenzaldehyde,5,0
+2-Methoxybenzaldehyde,6,1
+2-Methoxybenzaldehyde,7,0
+2-Methoxybenzaldehyde,8,0
+2-Methoxybenzaldehyde,9,1
+2-Methoxybenzaldehyde,10,0
+2-Methoxybenzaldehyde,11,0
+2-Methoxybenzaldehyde,12,0
+2-Methoxybenzaldehyde,13,1
+2-Methoxybenzaldehyde,14,1
+2-Methoxybenzaldehyde,15,0
+2-Methoxybenzaldehyde,16,1
+2-Methoxybenzaldehyde,17,0
+2-methylacetophenone,0,1
+2-methylacetophenone,1,0
+2-methylacetophenone,2,1
+2-methylacetophenone,3,0
+2-methylacetophenone,4,0
+2-methylacetophenone,5,1
+2-methylacetophenone,6,0
+2-methylacetophenone,7,0
+2-methylacetophenone,8,1
+2-methylacetophenone,9,0
+2-methylacetophenone,10,0
+2-methylacetophenone,11,0
+2-methylacetophenone,12,0
+2-methylacetophenone,13,1
+2-methylacetophenone,14,0
+2-methylacetophenone,15,1
+2-methylacetophenone,16,0
+2-methylacetophenone,17,1
+2-methylacetophenone,18,1
+2-methylacetophenone,19,0
+2-Methylaniline,0,1
+2-Methylaniline,1,1
+2-Methylaniline,2,1
+2-Methylaniline,3,0
+2-Methylaniline,4,0
+2-Methylaniline,5,1
+2-Methylaniline,6,1
+2-Methylaniline,7,0
+2-Methylaniline,8,0
+2-Methylaniline,9,0
+2-Methylaniline,10,0
+2-Methylaniline,11,1
+2-Methylaniline,12,1
+2-Methylaniline,13,0
+2-Methylaniline,14,0
+2-Methylaniline,15,1
+2-Methylaniline,16,1
+2-Naphthol,0,1
+2-Naphthol,1,1
+2-Naphthol,2,1
+2-Naphthol,3,0
+2-Naphthol,4,0
+2-Naphthol,5,1
+2-Naphthol,6,1
+2-Naphthol,7,0
+2-Naphthol,8,1
+2-Naphthol,9,1
+2-Naphthol,10,1
+2-Naphthol,11,1
+2-Naphthol,12,1
+2-Naphthol,13,0
+2-Naphthol,14,0
+2-Naphthol,15,1
+2-Naphthol,16,1
+2-Naphthol,17,0
+2-Naphthol,18,0
+2-Naphthylamine,0,1
+2-Naphthylamine,1,1
+2-Naphthylamine,2,0
+2-Naphthylamine,3,1
+2-Naphthylamine,4,0
+2-Naphthylamine,5,1
+2-Naphthylamine,6,0
+2-Naphthylamine,7,0
+2-Naphthylamine,8,0
+2-Naphthylamine,9,0
+2-Naphthylamine,10,0
+2-Naphthylamine,11,0
+2-Naphthylamine,12,0
+2-Naphthylamine,13,1
+2-Naphthylamine,14,1
+2-Naphthylamine,15,1
+2-Naphthylamine,16,0
+2-Naphthylamine,17,1
+2-Naphthylamine,18,0
+2-Naphthylamine,19,1
+2-Nitroaniline,0,0
+2-Nitroaniline,1,0
+2-Nitroaniline,2,0
+2-Nitroaniline,3,1
+2-Nitroaniline,4,1
+2-Nitroaniline,5,1
+2-Nitroaniline,6,1
+2-Nitroaniline,7,1
+2-Nitroaniline,8,0
+2-Nitroaniline,9,0
+2-Nitroaniline,10,1
+2-Nitroaniline,11,1
+2-Nitroaniline,12,1
+2-Nitroaniline,13,1
+2-Nitroaniline,14,0
+2-Nitroaniline,15,0
+2-Nitroaniline,16,0
+2-Nitroaniline,17,0
+2-Nitroaniline,18,1
+2-Nitroaniline,19,1
+2-Nitrobenzaldehyde,0,0
+2-Nitrobenzaldehyde,1,1
+2-Nitrobenzaldehyde,2,0
+2-Nitrobenzaldehyde,3,0
+2-Nitrobenzaldehyde,4,1
+2-Nitrobenzaldehyde,5,0
+2-Nitrobenzaldehyde,6,1
+2-Nitrobenzaldehyde,7,0
+2-Nitrobenzaldehyde,8,0
+2-Nitrobenzaldehyde,9,0
+2-Nitrobenzaldehyde,10,1
+2-Nitrobenzaldehyde,11,1
+2-Nitrobenzaldehyde,12,1
+2-Nitrobenzaldehyde,13,0
+2-Nitrobenzaldehyde,14,1
+2-Nitrobenzaldehyde,15,1
+2-Nitrophenol,0,1
+2-Nitrophenol,1,1
+2-Nitrophenol,2,1
+2-Nitrophenol,3,0
+2-Nitrophenol,4,0
+2-Nitrophenol,5,0
+2-Nitrophenol,6,0
+2-Nitrophenol,7,0
+2-Nitrophenol,8,1
+2-Nitrophenol,9,1
+2-Nitrophenol,10,1
+2-Nitrophenol,11,0
+2-Nitrophenol,12,1
+2-Nitrophenol,13,1
+2-Nitrophenol,14,0
+2-Nitrotoluene,0,1
+2-Nitrotoluene,1,0
+2-Nitrotoluene,2,1
+2-Nitrotoluene,3,1
+2-Nitrotoluene,4,0
+2-Nitrotoluene,5,1
+2-Nitrotoluene,6,0
+2-Nitrotoluene,7,1
+2-Nitrotoluene,8,0
+2-Nitrotoluene,9,1
+2-Nitrotoluene,10,1
+2-Nitrotoluene,11,1
+2-Nitrotoluene,12,1
+2-Nitrotoluene,13,0
+2-Nitrotoluene,14,0
+2-Nitrotoluene,15,1
+2-Nitrotoluene,16,1
+2-Phenylacetic acid,0,1
+2-Phenylacetic acid,1,1
+2-Phenylacetic acid,2,0
+2-Phenylacetic acid,3,1
+2-Phenylacetic acid,4,0
+2-Phenylacetic acid,5,0
+2-Phenylacetic acid,6,1
+2-Phenylacetic acid,7,0
+2-Phenylacetic acid,8,1
+2-Phenylacetic acid,9,1
+2-Phenylacetic acid,10,1
+2-Phenylacetic acid,11,0
+2-Phenylacetic acid,12,0
+2-Phenylacetic acid,13,1
+2-Phenylacetic acid,14,1
+2-Phenylacetic acid,15,1
+2-Phenylacetic acid,16,1
+2-Phenylacetic acid,17,1
+2-Phenylpropane,0,0
+2-Phenylpropane,1,0
+2-Phenylpropane,2,0
+2-Phenylpropane,3,1
+2-Phenylpropane,4,1
+2-Phenylpropane,5,1
+2-Phenylpropane,6,0
+2-Phenylpropane,7,1
+2-Phenylpropane,8,1
+2-Phenylpropane,9,0
+2-Phenylpropane,10,1
+2-Phenylpropane,11,0
+2-Phenylpropane,12,1
+2-Phenylpropane,13,1
+2-Phenylpropane,14,1
+2-Phenylpropane,15,0
+2-Phenylpropane,16,1
+2-Phenylpropane,17,0
+2-Phenylpropane,18,1
+2-Phenylpropane,19,0
+2-Phenylpropane,20,1
+2-tert-Butylphenol,0,0
+2-tert-Butylphenol,1,1
+2-tert-Butylphenol,2,0
+2-tert-Butylphenol,3,1
+2-tert-Butylphenol,4,1
+2-tert-Butylphenol,5,1
+2-tert-Butylphenol,6,0
+2-tert-Butylphenol,7,0
+2-tert-Butylphenol,8,1
+2-tert-Butylphenol,9,1
+2-tert-Butylphenol,10,0
+2-tert-Butylphenol,11,1
+2-tert-Butylphenol,12,0
+2-tert-Butylphenol,13,1
+2-tert-Butylphenol,14,0
+2-tert-Butylphenol,15,0
+2-tert-Butylphenol,16,0
+2-tert-Butylphenol,17,0
+2-tert-Butylphenol,18,0
+2-tert-Butylphenol,19,0
+2-tert-Butylphenol,20,1
+2-tert-Butylphenol,21,1
+2-tert-Butylphenol,22,0
+2-tert-Butylphenol,23,1
+2-tert-Butylphenol,24,1
+24-Dichlorobiphenyl,0,0
+24-Dichlorobiphenyl,1,0
+24-Dichlorobiphenyl,2,0
+24-Dichlorobiphenyl,3,1
+24-Dichlorobiphenyl,4,0
+24-Dichlorobiphenyl,5,0
+24-Dichlorobiphenyl,6,0
+24-Dichlorobiphenyl,7,1
+24-Dichlorobiphenyl,8,1
+24-Dichlorobiphenyl,9,0
+24-Dichlorobiphenyl,10,0
+24-Dichlorobiphenyl,11,0
+24-Dichlorobiphenyl,12,0
+24-Dichlorobiphenyl,13,0
+24-Dichlorobiphenyl,14,0
+24-Dichlorobiphenyl,15,1
+24-Dichlorobiphenyl,16,0
+24-Dichlorobiphenyl,17,0
+24-Dichlorobiphenyl,18,0
+24-Dichlorobiphenyl,19,0
+24-Dichlorobiphenyl,20,1
+24-Dichlorobiphenyl,21,1
+24-Dichlorophenol,0,0
+24-Dichlorophenol,1,1
+24-Dichlorophenol,2,1
+24-Dichlorophenol,3,0
+24-Dichlorophenol,4,1
+24-Dichlorophenol,5,0
+24-Dichlorophenol,6,0
+24-Dichlorophenol,7,1
+24-Dichlorophenol,8,1
+24-Dichlorophenol,9,0
+24-Dichlorophenol,10,1
+24-Dichlorophenol,11,0
+24-Dichlorophenol,12,1
+246-Trichlorophenol,0,1
+246-Trichlorophenol,1,1
+246-Trichlorophenol,2,0
+246-Trichlorophenol,3,0
+246-Trichlorophenol,4,0
+246-Trichlorophenol,5,0
+246-Trichlorophenol,6,1
+246-Trichlorophenol,7,0
+246-Trichlorophenol,8,0
+246-Trichlorophenol,9,0
+246-Trichlorophenol,10,1
+246-Trichlorophenol,11,0
+246-Trichlorophenol,12,1
+3-Aminotoluene,0,1
+3-Aminotoluene,1,1
+3-Aminotoluene,2,1
+3-Aminotoluene,3,1
+3-Aminotoluene,4,0
+3-Aminotoluene,5,1
+3-Aminotoluene,6,0
+3-Aminotoluene,7,0
+3-Aminotoluene,8,0
+3-Aminotoluene,9,0
+3-Aminotoluene,10,1
+3-Aminotoluene,11,0
+3-Aminotoluene,12,0
+3-Aminotoluene,13,0
+3-Aminotoluene,14,0
+3-Aminotoluene,15,0
+3-Aminotoluene,16,0
+3-ethylacetophenone,0,1
+3-ethylacetophenone,1,0
+3-ethylacetophenone,2,1
+3-ethylacetophenone,3,0
+3-ethylacetophenone,4,1
+3-ethylacetophenone,5,1
+3-ethylacetophenone,6,0
+3-ethylacetophenone,7,1
+3-ethylacetophenone,8,1
+3-ethylacetophenone,9,1
+3-ethylacetophenone,10,0
+3-ethylacetophenone,11,1
+3-ethylacetophenone,12,1
+3-ethylacetophenone,13,1
+3-ethylacetophenone,14,0
+3-ethylacetophenone,15,1
+3-ethylacetophenone,16,0
+3-ethylacetophenone,17,0
+3-ethylacetophenone,18,1
+3-ethylacetophenone,19,1
+3-ethylacetophenone,20,1
+3-ethylacetophenone,21,1
+3-ethylacetophenone,22,0
+3-Methylaniline,0,0
+3-Methylaniline,1,0
+3-Methylaniline,2,1
+3-Methylaniline,3,1
+3-Methylaniline,4,0
+3-Methylaniline,5,1
+3-Methylaniline,6,0
+3-Methylaniline,7,0
+3-Methylaniline,8,0
+3-Methylaniline,9,0
+3-Methylaniline,10,0
+3-Methylaniline,11,0
+3-Methylaniline,12,1
+3-Methylaniline,13,0
+3-Methylaniline,14,1
+3-Methylaniline,15,1
+3-Methylaniline,16,1
+3-Nitrotoluene,0,0
+3-Nitrotoluene,1,1
+3-Nitrotoluene,2,0
+3-Nitrotoluene,3,1
+3-Nitrotoluene,4,1
+3-Nitrotoluene,5,1
+3-Nitrotoluene,6,0
+3-Nitrotoluene,7,0
+3-Nitrotoluene,8,0
+3-Nitrotoluene,9,1
+3-Nitrotoluene,10,1
+3-Nitrotoluene,11,1
+3-Nitrotoluene,12,1
+3-Nitrotoluene,13,0
+3-Nitrotoluene,14,1
+3-Nitrotoluene,15,0
+3-Nitrotoluene,16,1
+3-Phenylpropionic acid,0,1
+3-Phenylpropionic acid,1,1
+3-Phenylpropionic acid,2,0
+3-Phenylpropionic acid,3,1
+3-Phenylpropionic acid,4,1
+3-Phenylpropionic acid,5,0
+3-Phenylpropionic acid,6,0
+3-Phenylpropionic acid,7,1
+3-Phenylpropionic acid,8,0
+3-Phenylpropionic acid,9,1
+3-Phenylpropionic acid,10,0
+3-Phenylpropionic acid,11,1
+3-Phenylpropionic acid,12,0
+3-Phenylpropionic acid,13,1
+3-Phenylpropionic acid,14,1
+3-Phenylpropionic acid,15,0
+3-Phenylpropionic acid,16,0
+3-Phenylpropionic acid,17,0
+3-Phenylpropionic acid,18,1
+3-Phenylpropionic acid,19,1
+3-Phenylpropionic acid,20,1
+4-Aminoacetophenone,0,1
+4-Aminoacetophenone,1,0
+4-Aminoacetophenone,2,0
+4-Aminoacetophenone,3,0
+4-Aminoacetophenone,4,1
+4-Aminoacetophenone,5,0
+4-Aminoacetophenone,6,1
+4-Aminoacetophenone,7,1
+4-Aminoacetophenone,8,1
+4-Aminoacetophenone,9,0
+4-Aminoacetophenone,10,1
+4-Aminoacetophenone,11,1
+4-Aminoacetophenone,12,0
+4-Aminoacetophenone,13,0
+4-Aminoacetophenone,14,1
+4-Aminoacetophenone,15,0
+4-Aminoacetophenone,16,1
+4-Aminoacetophenone,17,1
+4-Aminoacetophenone,18,1
+4-Aminotoluene,0,0
+4-Aminotoluene,1,1
+4-Aminotoluene,2,1
+4-Aminotoluene,3,1
+4-Aminotoluene,4,1
+4-Aminotoluene,5,1
+4-Aminotoluene,6,1
+4-Aminotoluene,7,0
+4-Aminotoluene,8,0
+4-Aminotoluene,9,1
+4-Aminotoluene,10,1
+4-Aminotoluene,11,1
+4-Aminotoluene,12,0
+4-Aminotoluene,13,0
+4-Aminotoluene,14,0
+4-Aminotoluene,15,0
+4-Aminotoluene,16,0
+4-Biphenylamine,0,1
+4-Biphenylamine,1,1
+4-Biphenylamine,2,0
+4-Biphenylamine,3,1
+4-Biphenylamine,4,1
+4-Biphenylamine,5,1
+4-Biphenylamine,6,1
+4-Biphenylamine,7,1
+4-Biphenylamine,8,1
+4-Biphenylamine,9,0
+4-Biphenylamine,10,1
+4-Biphenylamine,11,1
+4-Biphenylamine,12,0
+4-Biphenylamine,13,1
+4-Biphenylamine,14,0
+4-Biphenylamine,15,0
+4-Biphenylamine,16,1
+4-Biphenylamine,17,1
+4-Biphenylamine,18,0
+4-Biphenylamine,19,0
+4-Biphenylamine,20,0
+4-Biphenylamine,21,1
+4-Biphenylamine,22,0
+4-Biphenylamine,23,0
+4-Bromoaniline,0,0
+4-Bromoaniline,1,1
+4-Bromoaniline,2,0
+4-Bromoaniline,3,1
+4-Bromoaniline,4,0
+4-Bromoaniline,5,0
+4-Bromoaniline,6,1
+4-Bromoaniline,7,1
+4-Bromoaniline,8,1
+4-Bromoaniline,9,0
+4-Bromoaniline,10,1
+4-Bromoaniline,11,0
+4-Bromoaniline,12,1
+4-Bromoaniline,13,1
+4-Chloroaniline,0,1
+4-Chloroaniline,1,1
+4-Chloroaniline,2,0
+4-Chloroaniline,3,1
+4-Chloroaniline,4,1
+4-Chloroaniline,5,0
+4-Chloroaniline,6,0
+4-Chloroaniline,7,1
+4-Chloroaniline,8,1
+4-Chloroaniline,9,0
+4-Chloroaniline,10,0
+4-Chloroaniline,11,1
+4-Chloroaniline,12,0
+4-Chloroaniline,13,0
+4-Chlorobiphenyl,0,0
+4-Chlorobiphenyl,1,0
+4-Chlorobiphenyl,2,1
+4-Chlorobiphenyl,3,1
+4-Chlorobiphenyl,4,1
+4-Chlorobiphenyl,5,1
+4-Chlorobiphenyl,6,0
+4-Chlorobiphenyl,7,0
+4-Chlorobiphenyl,8,1
+4-Chlorobiphenyl,9,0
+4-Chlorobiphenyl,10,1
+4-Chlorobiphenyl,11,1
+4-Chlorobiphenyl,12,1
+4-Chlorobiphenyl,13,1
+4-Chlorobiphenyl,14,0
+4-Chlorobiphenyl,15,0
+4-Chlorobiphenyl,16,0
+4-Chlorobiphenyl,17,1
+4-Chlorobiphenyl,18,0
+4-Chlorobiphenyl,19,1
+4-Chlorobiphenyl,20,1
+4-Chlorobiphenyl,21,1
+4-Chlorobiphenyl,22,0
+4-Chlorobiphenyl,23,0
+4-Chlorophenol,0,0
+4-Chlorophenol,1,1
+4-Chlorophenol,2,0
+4-Chlorophenol,3,0
+4-Chlorophenol,4,0
+4-Chlorophenol,5,1
+4-Chlorophenol,6,0
+4-Chlorophenol,7,0
+4-Chlorophenol,8,0
+4-Chlorophenol,9,1
+4-Chlorophenol,10,0
+4-Chlorophenol,11,0
+4-Chlorophenol,12,1
+4-EthylAniline,0,0
+4-EthylAniline,1,0
+4-EthylAniline,2,0
+4-EthylAniline,3,1
+4-EthylAniline,4,1
+4-EthylAniline,5,0
+4-EthylAniline,6,1
+4-EthylAniline,7,1
+4-EthylAniline,8,0
+4-EthylAniline,9,1
+4-EthylAniline,10,1
+4-EthylAniline,11,0
+4-EthylAniline,12,0
+4-EthylAniline,13,1
+4-EthylAniline,14,0
+4-EthylAniline,15,0
+4-EthylAniline,16,0
+4-EthylAniline,17,0
+4-EthylAniline,18,1
+4-EthylAniline,19,0
+4-Ethylphenol,0,1
+4-Ethylphenol,1,0
+4-Ethylphenol,2,0
+4-Ethylphenol,3,0
+4-Ethylphenol,4,1
+4-Ethylphenol,5,0
+4-Ethylphenol,6,1
+4-Ethylphenol,7,1
+4-Ethylphenol,8,0
+4-Ethylphenol,9,1
+4-Ethylphenol,10,1
+4-Ethylphenol,11,1
+4-Ethylphenol,12,1
+4-Ethylphenol,13,1
+4-Ethylphenol,14,0
+4-Ethylphenol,15,0
+4-Ethylphenol,16,0
+4-Ethylphenol,17,0
+4-Ethylphenol,18,0
+4-Iodoaniline,0,0
+4-Iodoaniline,1,1
+4-Iodoaniline,2,1
+4-Iodoaniline,3,0
+4-Iodoaniline,4,0
+4-Iodoaniline,5,0
+4-Iodoaniline,6,0
+4-Iodoaniline,7,0
+4-Iodoaniline,8,1
+4-Iodoaniline,9,0
+4-Iodoaniline,10,1
+4-Iodoaniline,11,0
+4-Iodoaniline,12,1
+4-Iodoaniline,13,0
+4-Isopropylphenol,0,0
+4-Isopropylphenol,1,1
+4-Isopropylphenol,2,1
+4-Isopropylphenol,3,1
+4-Isopropylphenol,4,1
+4-Isopropylphenol,5,1
+4-Isopropylphenol,6,0
+4-Isopropylphenol,7,0
+4-Isopropylphenol,8,1
+4-Isopropylphenol,9,1
+4-Isopropylphenol,10,1
+4-Isopropylphenol,11,1
+4-Isopropylphenol,12,0
+4-Isopropylphenol,13,1
+4-Isopropylphenol,14,1
+4-Isopropylphenol,15,0
+4-Isopropylphenol,16,0
+4-Isopropylphenol,17,1
+4-Isopropylphenol,18,0
+4-Isopropylphenol,19,0
+4-Isopropylphenol,20,1
+4-Isopropylphenol,21,1
+4-Methoxybenzaldehyde,0,1
+4-Methoxybenzaldehyde,1,0
+4-Methoxybenzaldehyde,2,0
+4-Methoxybenzaldehyde,3,0
+4-Methoxybenzaldehyde,4,0
+4-Methoxybenzaldehyde,5,1
+4-Methoxybenzaldehyde,6,1
+4-Methoxybenzaldehyde,7,1
+4-Methoxybenzaldehyde,8,1
+4-Methoxybenzaldehyde,9,0
+4-Methoxybenzaldehyde,10,1
+4-Methoxybenzaldehyde,11,0
+4-Methoxybenzaldehyde,12,0
+4-Methoxybenzaldehyde,13,0
+4-Methoxybenzaldehyde,14,0
+4-Methoxybenzaldehyde,15,0
+4-Methoxybenzaldehyde,16,0
+4-Methoxybenzaldehyde,17,1
+4-methylacetophenone,0,1
+4-methylacetophenone,1,1
+4-methylacetophenone,2,1
+4-methylacetophenone,3,1
+4-methylacetophenone,4,1
+4-methylacetophenone,5,0
+4-methylacetophenone,6,1
+4-methylacetophenone,7,1
+4-methylacetophenone,8,0
+4-methylacetophenone,9,1
+4-methylacetophenone,10,1
+4-methylacetophenone,11,1
+4-methylacetophenone,12,0
+4-methylacetophenone,13,0
+4-methylacetophenone,14,0
+4-methylacetophenone,15,1
+4-methylacetophenone,16,0
+4-methylacetophenone,17,0
+4-methylacetophenone,18,0
+4-methylacetophenone,19,0
+4-Methylaniline,0,1
+4-Methylaniline,1,1
+4-Methylaniline,2,0
+4-Methylaniline,3,1
+4-Methylaniline,4,0
+4-Methylaniline,5,0
+4-Methylaniline,6,1
+4-Methylaniline,7,0
+4-Methylaniline,8,1
+4-Methylaniline,9,0
+4-Methylaniline,10,1
+4-Methylaniline,11,0
+4-Methylaniline,12,0
+4-Methylaniline,13,0
+4-Methylaniline,14,1
+4-Methylaniline,15,0
+4-Methylaniline,16,1
+4-Nitroaniline,0,1
+4-Nitroaniline,1,1
+4-Nitroaniline,2,0
+4-Nitroaniline,3,1
+4-Nitroaniline,4,0
+4-Nitroaniline,5,0
+4-Nitroaniline,6,1
+4-Nitroaniline,7,1
+4-Nitroaniline,8,0
+4-Nitroaniline,9,1
+4-Nitroaniline,10,1
+4-Nitroaniline,11,0
+4-Nitroaniline,12,1
+4-Nitroaniline,13,0
+4-Nitroaniline,14,1
+4-Nitroaniline,15,1
+4-Nitrobenzaldehyde,0,0
+4-Nitrobenzaldehyde,1,0
+4-Nitrobenzaldehyde,2,0
+4-Nitrobenzaldehyde,3,0
+4-Nitrobenzaldehyde,4,1
+4-Nitrobenzaldehyde,5,0
+4-Nitrobenzaldehyde,6,1
+4-Nitrobenzaldehyde,7,0
+4-Nitrobenzaldehyde,8,1
+4-Nitrobenzaldehyde,9,1
+4-Nitrobenzaldehyde,10,0
+4-Nitrobenzaldehyde,11,0
+4-Nitrobenzaldehyde,12,1
+4-Nitrobenzaldehyde,13,1
+4-Nitrobenzaldehyde,14,1
+4-Nitrobenzaldehyde,15,1
+4-Nitrotoluene,0,0
+4-Nitrotoluene,1,0
+4-Nitrotoluene,2,1
+4-Nitrotoluene,3,1
+4-Nitrotoluene,4,1
+4-Nitrotoluene,5,0
+4-Nitrotoluene,6,1
+4-Nitrotoluene,7,1
+4-Nitrotoluene,8,0
+4-Nitrotoluene,9,0
+4-Nitrotoluene,10,0
+4-Nitrotoluene,11,1
+4-Nitrotoluene,12,1
+4-Nitrotoluene,13,1
+4-Nitrotoluene,14,0
+4-Nitrotoluene,15,0
+4-Nitrotoluene,16,1
+4-Phenylbutyric acid,0,1
+4-Phenylbutyric acid,1,1
+4-Phenylbutyric acid,2,0
+4-Phenylbutyric acid,3,1
+4-Phenylbutyric acid,4,1
+4-Phenylbutyric acid,5,1
+4-Phenylbutyric acid,6,0
+4-Phenylbutyric acid,7,1
+4-Phenylbutyric acid,8,1
+4-Phenylbutyric acid,9,0
+4-Phenylbutyric acid,10,0
+4-Phenylbutyric acid,11,0
+4-Phenylbutyric acid,12,1
+4-Phenylbutyric acid,13,1
+4-Phenylbutyric acid,14,1
+4-Phenylbutyric acid,15,0
+4-Phenylbutyric acid,16,1
+4-Phenylbutyric acid,17,0
+4-Phenylbutyric acid,18,1
+4-Phenylbutyric acid,19,0
+4-Phenylbutyric acid,20,1
+4-Phenylbutyric acid,21,1
+4-Phenylbutyric acid,22,0
+4-Phenylbutyric acid,23,1
+4-tert-Butylphenol,0,0
+4-tert-Butylphenol,1,0
+4-tert-Butylphenol,2,1
+4-tert-Butylphenol,3,0
+4-tert-Butylphenol,4,0
+4-tert-Butylphenol,5,1
+4-tert-Butylphenol,6,1
+4-tert-Butylphenol,7,0
+4-tert-Butylphenol,8,1
+4-tert-Butylphenol,9,0
+4-tert-Butylphenol,10,0
+4-tert-Butylphenol,11,0
+4-tert-Butylphenol,12,1
+4-tert-Butylphenol,13,0
+4-tert-Butylphenol,14,0
+4-tert-Butylphenol,15,0
+4-tert-Butylphenol,16,0
+4-tert-Butylphenol,17,1
+4-tert-Butylphenol,18,0
+4-tert-Butylphenol,19,0
+4-tert-Butylphenol,20,0
+4-tert-Butylphenol,21,0
+4-tert-Butylphenol,22,0
+4-tert-Butylphenol,23,0
+4-tert-Butylphenol,24,0
+Acetophenone,0,0
+Acetophenone,1,1
+Acetophenone,2,1
+Acetophenone,3,1
+Acetophenone,4,0
+Acetophenone,5,0
+Acetophenone,6,1
+Acetophenone,7,0
+Acetophenone,8,0
+Acetophenone,9,1
+Acetophenone,10,1
+Acetophenone,11,1
+Acetophenone,12,1
+Acetophenone,13,1
+Acetophenone,14,1
+Acetophenone,15,0
+Acetophenone,16,0
+Adipic acid,0,1
+Adipic acid,1,0
+Adipic acid,2,0
+Adipic acid,3,1
+Adipic acid,4,0
+Adipic acid,5,1
+Adipic acid,6,1
+Adipic acid,7,0
+Adipic acid,8,0
+Adipic acid,9,0
+Adipic acid,10,1
+Adipic acid,11,0
+Adipic acid,12,1
+Adipic acid,13,0
+Adipic acid,14,0
+Adipic acid,15,1
+Adipic acid,16,0
+Adipic acid,17,1
+Adipic acid,18,1
+Adipic acid,19,1
+Aniline,0,0
+Aniline,1,1
+Aniline,2,1
+Aniline,3,0
+Aniline,4,0
+Aniline,5,1
+Aniline,6,1
+Aniline,7,1
+Aniline,8,1
+Aniline,9,0
+Aniline,10,1
+Aniline,11,1
+Aniline,12,0
+Aniline,13,0
+Anthracene,0,1
+Anthracene,1,0
+Anthracene,2,0
+Anthracene,3,1
+Anthracene,4,0
+Anthracene,5,0
+Anthracene,6,1
+Anthracene,7,1
+Anthracene,8,0
+Anthracene,9,0
+Anthracene,10,0
+Anthracene,11,1
+Anthracene,12,0
+Anthracene,13,1
+Anthracene,14,0
+Anthracene,15,1
+Anthracene,16,0
+Anthracene,17,0
+Anthracene,18,1
+Anthracene,19,0
+Anthracene,20,0
+Anthracene,21,1
+Anthracene,22,0
+Anthracene,23,1
+Benzaldehyde,0,1
+Benzaldehyde,1,1
+Benzaldehyde,2,1
+Benzaldehyde,3,0
+Benzaldehyde,4,0
+Benzaldehyde,5,0
+Benzaldehyde,6,0
+Benzaldehyde,7,0
+Benzaldehyde,8,0
+Benzaldehyde,9,0
+Benzaldehyde,10,1
+Benzaldehyde,11,0
+Benzaldehyde,12,0
+Benzoic Acid,0,0
+Benzoic Acid,1,0
+Benzoic Acid,2,0
+Benzoic Acid,3,1
+Benzoic Acid,4,0
+Benzoic Acid,5,0
+Benzoic Acid,6,1
+Benzoic Acid,7,1
+Benzoic Acid,8,0
+Benzoic Acid,9,1
+Benzoic Acid,10,0
+Benzoic Acid,11,0
+Benzoic Acid,12,1
+Biphenyl,0,0
+Biphenyl,1,1
+Biphenyl,2,0
+Biphenyl,3,0
+Biphenyl,4,0
+Biphenyl,5,1
+Biphenyl,6,0
+Biphenyl,7,0
+Biphenyl,8,1
+Biphenyl,9,1
+Biphenyl,10,0
+Biphenyl,11,0
+Biphenyl,12,1
+Biphenyl,13,1
+Biphenyl,14,0
+Biphenyl,15,1
+Biphenyl,16,1
+Biphenyl,17,0
+Biphenyl,18,0
+Biphenyl,19,0
+Biphenyl,20,0
+Biphenyl,21,1
+Bromobenzene,0,1
+Bromobenzene,1,0
+Bromobenzene,2,1
+Bromobenzene,3,0
+Bromobenzene,4,0
+Bromobenzene,5,1
+Bromobenzene,6,1
+Bromobenzene,7,0
+Bromobenzene,8,0
+Bromobenzene,9,1
+Bromobenzene,10,0
+Bromobenzene,11,1
+Butyric acid,0,0
+Butyric acid,1,1
+Butyric acid,2,1
+Butyric acid,3,1
+Butyric acid,4,1
+Butyric acid,5,0
+Butyric acid,6,0
+Butyric acid,7,0
+Butyric acid,8,1
+Butyric acid,9,1
+Butyric acid,10,0
+Butyric acid,11,0
+Butyric acid,12,1
+Butyric acid,13,1
+Catechol,0,0
+Catechol,1,0
+Catechol,2,1
+Catechol,3,0
+Catechol,4,0
+Catechol,5,1
+Catechol,6,0
+Catechol,7,0
+Catechol,8,0
+Catechol,9,0
+Catechol,10,0
+Catechol,11,1
+Catechol,12,1
+Catechol,13,1
+Chlorobenzene,0,1
+Chlorobenzene,1,0
+Chlorobenzene,2,1
+Chlorobenzene,3,1
+Chlorobenzene,4,1
+Chlorobenzene,5,0
+Chlorobenzene,6,0
+Chlorobenzene,7,0
+Chlorobenzene,8,1
+Chlorobenzene,9,1
+Chlorobenzene,10,1
+Chlorobenzene,11,0
+Cinnamaldehyde,0,1
+Cinnamaldehyde,1,0
+Cinnamaldehyde,2,0
+Cinnamaldehyde,3,1
+Cinnamaldehyde,4,1
+Cinnamaldehyde,5,1
+Cinnamaldehyde,6,1
+Cinnamaldehyde,7,0
+Cinnamaldehyde,8,1
+Cinnamaldehyde,9,0
+Cinnamaldehyde,10,1
+Cinnamaldehyde,11,1
+Cinnamaldehyde,12,1
+Cinnamaldehyde,13,1
+Cinnamaldehyde,14,1
+Cinnamaldehyde,15,1
+Cinnamaldehyde,16,1
+Cinnamaldehyde,17,0
+Cumene,0,1
+Cumene,1,1
+Cumene,2,1
+Cumene,3,1
+Cumene,4,1
+Cumene,5,1
+Cumene,6,0
+Cumene,7,0
+Cumene,8,0
+Cumene,9,0
+Cumene,10,1
+Cumene,11,0
+Cumene,12,0
+Cumene,13,1
+Cumene,14,1
+Cumene,15,0
+Cumene,16,1
+Cumene,17,1
+Cumene,18,0
+Cumene,19,1
+Cumene,20,1
+Ethylbenzene,0,0
+Ethylbenzene,1,1
+Ethylbenzene,2,1
+Ethylbenzene,3,0
+Ethylbenzene,4,1
+Ethylbenzene,5,1
+Ethylbenzene,6,0
+Ethylbenzene,7,0
+Ethylbenzene,8,1
+Ethylbenzene,9,0
+Ethylbenzene,10,0
+Ethylbenzene,11,1
+Ethylbenzene,12,0
+Ethylbenzene,13,1
+Ethylbenzene,14,1
+Ethylbenzene,15,0
+Ethylbenzene,16,1
+Ethylbenzene,17,0
+Glutaric acid,0,0
+Glutaric acid,1,0
+Glutaric acid,2,0
+Glutaric acid,3,1
+Glutaric acid,4,0
+Glutaric acid,5,1
+Glutaric acid,6,0
+Glutaric acid,7,1
+Glutaric acid,8,0
+Glutaric acid,9,0
+Glutaric acid,10,1
+Glutaric acid,11,1
+Glutaric acid,12,0
+Glutaric acid,13,0
+Glutaric acid,14,0
+Glutaric acid,15,1
+Glutaric acid,16,1
+Glutaric acid,17,0
+Glutaric acid,18,0
+Glutaric acid,19,1
+Hexanoic acid,0,0
+Hexanoic acid,1,1
+Hexanoic acid,2,1
+Hexanoic acid,3,1
+Hexanoic acid,4,0
+Hexanoic acid,5,0
+Hexanoic acid,6,0
+Hexanoic acid,7,0
+Hexanoic acid,8,1
+Hexanoic acid,9,0
+Hexanoic acid,10,1
+Hexanoic acid,11,1
+Hexanoic acid,12,0
+Hexanoic acid,13,1
+Hexanoic acid,14,1
+Hexanoic acid,15,1
+Hexanoic acid,16,0
+Hexanoic acid,17,1
+Hexanoic acid,18,1
+Hexanoic acid,19,1
+Hydroquinone,0,1
+Hydroquinone,1,1
+Hydroquinone,2,1
+Hydroquinone,3,1
+Hydroquinone,4,1
+Hydroquinone,5,0
+Hydroquinone,6,1
+Hydroquinone,7,1
+Hydroquinone,8,0
+Hydroquinone,9,0
+Hydroquinone,10,1
+Hydroquinone,11,1
+Hydroquinone,12,0
+Hydroquinone,13,1
+Lauric acid,0,1
+Lauric acid,1,1
+Lauric acid,2,1
+Lauric acid,3,0
+Lauric acid,4,1
+Lauric acid,5,1
+Lauric acid,6,0
+Lauric acid,7,1
+Lauric acid,8,1
+Lauric acid,9,0
+Lauric acid,10,1
+Lauric acid,11,0
+Lauric acid,12,1
+Lauric acid,13,0
+Lauric acid,14,1
+Lauric acid,15,0
+Lauric acid,16,0
+Lauric acid,17,0
+Lauric acid,18,0
+Lauric acid,19,1
+Lauric acid,20,1
+Lauric acid,21,1
+Lauric acid,22,1
+Lauric acid,23,0
+Lauric acid,24,0
+Lauric acid,25,0
+m-Cresol,0,1
+m-Cresol,1,0
+m-Cresol,2,1
+m-Cresol,3,0
+m-Cresol,4,1
+m-Cresol,5,0
+m-Cresol,6,1
+m-Cresol,7,1
+m-Cresol,8,1
+m-Cresol,9,0
+m-Cresol,10,0
+m-Cresol,11,0
+m-Cresol,12,0
+m-Cresol,13,1
+m-Cresol,14,1
+m-Cresol,15,1
+m-Phenylenediamine,0,0
+m-Phenylenediamine,1,0
+m-Phenylenediamine,2,0
+m-Phenylenediamine,3,0
+m-Phenylenediamine,4,1
+m-Phenylenediamine,5,1
+m-Phenylenediamine,6,1
+m-Phenylenediamine,7,1
+m-Phenylenediamine,8,1
+m-Phenylenediamine,9,0
+m-Phenylenediamine,10,0
+m-Phenylenediamine,11,0
+m-Phenylenediamine,12,0
+m-Phenylenediamine,13,1
+m-Phenylenediamine,14,1
+m-Phenylenediamine,15,1
+m-Toluidine,0,0
+m-Toluidine,1,1
+m-Toluidine,2,0
+m-Toluidine,3,1
+m-Toluidine,4,0
+m-Toluidine,5,1
+m-Toluidine,6,0
+m-Toluidine,7,1
+m-Toluidine,8,0
+m-Toluidine,9,0
+m-Toluidine,10,1
+m-Toluidine,11,1
+m-Toluidine,12,1
+m-Toluidine,13,1
+m-Toluidine,14,0
+m-Toluidine,15,0
+m-Toluidine,16,1
+m-Xylene,0,1
+m-Xylene,1,0
+m-Xylene,2,0
+m-Xylene,3,1
+m-Xylene,4,1
+m-Xylene,5,1
+m-Xylene,6,0
+m-Xylene,7,0
+m-Xylene,8,1
+m-Xylene,9,1
+m-Xylene,10,1
+m-Xylene,11,0
+m-Xylene,12,1
+m-Xylene,13,1
+m-Xylene,14,1
+m-Xylene,15,1
+m-Xylene,16,1
+m-Xylene,17,1
+N-Methylaniline,0,0
+N-Methylaniline,1,0
+N-Methylaniline,2,0
+N-Methylaniline,3,1
+N-Methylaniline,4,1
+N-Methylaniline,5,0
+N-Methylaniline,6,0
+N-Methylaniline,7,0
+N-Methylaniline,8,0
+N-Methylaniline,9,1
+N-Methylaniline,10,0
+N-Methylaniline,11,1
+N-Methylaniline,12,1
+N-Methylaniline,13,0
+N-Methylaniline,14,1
+N-Methylaniline,15,1
+N-Methylaniline,16,1
+Naphthalene,0,1
+Naphthalene,1,0
+Naphthalene,2,0
+Naphthalene,3,1
+Naphthalene,4,0
+Naphthalene,5,1
+Naphthalene,6,1
+Naphthalene,7,1
+Naphthalene,8,0
+Naphthalene,9,0
+Naphthalene,10,1
+Naphthalene,11,1
+Naphthalene,12,0
+Naphthalene,13,1
+Naphthalene,14,1
+Naphthalene,15,0
+Naphthalene,16,1
+Naphthalene,17,1
+Nitrobenzene,0,0
+Nitrobenzene,1,0
+Nitrobenzene,2,1
+Nitrobenzene,3,0
+Nitrobenzene,4,1
+Nitrobenzene,5,0
+Nitrobenzene,6,1
+Nitrobenzene,7,0
+Nitrobenzene,8,1
+Nitrobenzene,9,0
+Nitrobenzene,10,0
+Nitrobenzene,11,1
+Nitrobenzene,12,1
+Nitrobenzene,13,1
+NN-Dimethylaniline,0,1
+NN-Dimethylaniline,1,0
+NN-Dimethylaniline,2,0
+NN-Dimethylaniline,3,1
+NN-Dimethylaniline,4,1
+NN-Dimethylaniline,5,0
+NN-Dimethylaniline,6,1
+NN-Dimethylaniline,7,0
+NN-Dimethylaniline,8,1
+NN-Dimethylaniline,9,0
+NN-Dimethylaniline,10,0
+NN-Dimethylaniline,11,0
+NN-Dimethylaniline,12,1
+NN-Dimethylaniline,13,0
+NN-Dimethylaniline,14,1
+NN-Dimethylaniline,15,0
+NN-Dimethylaniline,16,0
+NN-Dimethylaniline,17,0
+NN-Dimethylaniline,18,0
+NN-Dimethylaniline,19,0
+o-Anisidine,0,0
+o-Anisidine,1,0
+o-Anisidine,2,0
+o-Anisidine,3,0
+o-Anisidine,4,0
+o-Anisidine,5,1
+o-Anisidine,6,0
+o-Anisidine,7,0
+o-Anisidine,8,0
+o-Anisidine,9,1
+o-Anisidine,10,1
+o-Anisidine,11,0
+o-Anisidine,12,1
+o-Anisidine,13,1
+o-Anisidine,14,1
+o-Anisidine,15,0
+o-Anisidine,16,1
+o-Anisidine,17,1
+o-Chlorotoluene,0,0
+o-Chlorotoluene,1,1
+o-Chlorotoluene,2,1
+o-Chlorotoluene,3,0
+o-Chlorotoluene,4,1
+o-Chlorotoluene,5,1
+o-Chlorotoluene,6,1
+o-Chlorotoluene,7,1
+o-Chlorotoluene,8,1
+o-Chlorotoluene,9,0
+o-Chlorotoluene,10,1
+o-Chlorotoluene,11,1
+o-Chlorotoluene,12,0
+o-Chlorotoluene,13,0
+o-Chlorotoluene,14,0
+o-Cresol,0,1
+o-Cresol,1,0
+o-Cresol,2,0
+o-Cresol,3,0
+o-Cresol,4,0
+o-Cresol,5,1
+o-Cresol,6,1
+o-Cresol,7,0
+o-Cresol,8,1
+o-Cresol,9,0
+o-Cresol,10,0
+o-Cresol,11,1
+o-Cresol,12,1
+o-Cresol,13,1
+o-Cresol,14,0
+o-Cresol,15,1
+o-Phenylenediamine,0,1
+o-Phenylenediamine,1,1
+o-Phenylenediamine,2,0
+o-Phenylenediamine,3,0
+o-Phenylenediamine,4,1
+o-Phenylenediamine,5,0
+o-Phenylenediamine,6,0
+o-Phenylenediamine,7,1
+o-Phenylenediamine,8,1
+o-Phenylenediamine,9,0
+o-Phenylenediamine,10,1
+o-Phenylenediamine,11,0
+o-Phenylenediamine,12,1
+o-Phenylenediamine,13,0
+o-Phenylenediamine,14,0
+o-Phenylenediamine,15,0
+o-Toluidine,0,0
+o-Toluidine,1,1
+o-Toluidine,2,0
+o-Toluidine,3,0
+o-Toluidine,4,1
+o-Toluidine,5,1
+o-Toluidine,6,1
+o-Toluidine,7,1
+o-Toluidine,8,1
+o-Toluidine,9,1
+o-Toluidine,10,0
+o-Toluidine,11,0
+o-Toluidine,12,1
+o-Toluidine,13,0
+o-Toluidine,14,1
+o-Toluidine,15,0
+o-Toluidine,16,0
+o-Xylene,0,1
+o-Xylene,1,1
+o-Xylene,2,0
+o-Xylene,3,1
+o-Xylene,4,1
+o-Xylene,5,0
+o-Xylene,6,1
+o-Xylene,7,1
+o-Xylene,8,1
+o-Xylene,9,1
+o-Xylene,10,0
+o-Xylene,11,1
+o-Xylene,12,1
+o-Xylene,13,0
+o-Xylene,14,0
+o-Xylene,15,1
+o-Xylene,16,0
+o-Xylene,17,1
+Octanoic acid,0,0
+Octanoic acid,1,1
+Octanoic acid,2,1
+Octanoic acid,3,0
+Octanoic acid,4,0
+Octanoic acid,5,0
+Octanoic acid,6,1
+Octanoic acid,7,0
+Octanoic acid,8,0
+Octanoic acid,9,0
+Octanoic acid,10,1
+Octanoic acid,11,0
+Octanoic acid,12,1
+Octanoic acid,13,0
+Octanoic acid,14,0
+Octanoic acid,15,1
+Octanoic acid,16,0
+Octanoic acid,17,0
+Octanoic acid,18,0
+Octanoic acid,19,0
+Octanoic acid,20,0
+Octanoic acid,21,1
+Octanoic acid,22,0
+Octanoic acid,23,1
+Octanoic acid,24,0
+Octanoic acid,25,0
+p-Anisidine,0,1
+p-Anisidine,1,0
+p-Anisidine,2,1
+p-Anisidine,3,1
+p-Anisidine,4,0
+p-Anisidine,5,0
+p-Anisidine,6,0
+p-Anisidine,7,0
+p-Anisidine,8,0
+p-Anisidine,9,0
+p-Anisidine,10,1
+p-Anisidine,11,1
+p-Anisidine,12,0
+p-Anisidine,13,0
+p-Anisidine,14,1
+p-Anisidine,15,1
+p-Anisidine,16,0
+p-Anisidine,17,0
+p-Chlorotoluene,0,1
+p-Chlorotoluene,1,0
+p-Chlorotoluene,2,0
+p-Chlorotoluene,3,0
+p-Chlorotoluene,4,1
+p-Chlorotoluene,5,0
+p-Chlorotoluene,6,1
+p-Chlorotoluene,7,1
+p-Chlorotoluene,8,0
+p-Chlorotoluene,9,0
+p-Chlorotoluene,10,0
+p-Chlorotoluene,11,1
+p-Chlorotoluene,12,1
+p-Chlorotoluene,13,0
+p-Chlorotoluene,14,1
+p-Cresol,0,0
+p-Cresol,1,1
+p-Cresol,2,0
+p-Cresol,3,0
+p-Cresol,4,1
+p-Cresol,5,0
+p-Cresol,6,1
+p-Cresol,7,0
+p-Cresol,8,1
+p-Cresol,9,1
+p-Cresol,10,1
+p-Cresol,11,1
+p-Cresol,12,0
+p-Cresol,13,0
+p-Cresol,14,0
+p-Cresol,15,1
+p-Phenylenediamine,0,1
+p-Phenylenediamine,1,1
+p-Phenylenediamine,2,0
+p-Phenylenediamine,3,0
+p-Phenylenediamine,4,0
+p-Phenylenediamine,5,0
+p-Phenylenediamine,6,1
+p-Phenylenediamine,7,0
+p-Phenylenediamine,8,1
+p-Phenylenediamine,9,0
+p-Phenylenediamine,10,1
+p-Phenylenediamine,11,0
+p-Phenylenediamine,12,0
+p-Phenylenediamine,13,0
+p-Phenylenediamine,14,1
+p-Phenylenediamine,15,0
+p-Toluidine,0,1
+p-Toluidine,1,0
+p-Toluidine,2,1
+p-Toluidine,3,1
+p-Toluidine,4,0
+p-Toluidine,5,1
+p-Toluidine,6,1
+p-Toluidine,7,1
+p-Toluidine,8,0
+p-Toluidine,9,1
+p-Toluidine,10,1
+p-Toluidine,11,0
+p-Toluidine,12,1
+p-Toluidine,13,0
+p-Toluidine,14,0
+p-Toluidine,15,1
+p-Toluidine,16,1
+p-Xylene,0,0
+p-Xylene,1,1
+p-Xylene,2,0
+p-Xylene,3,1
+p-Xylene,4,0
+p-Xylene,5,0
+p-Xylene,6,0
+p-Xylene,7,1
+p-Xylene,8,0
+p-Xylene,9,1
+p-Xylene,10,0
+p-Xylene,11,0
+p-Xylene,12,1
+p-Xylene,13,1
+p-Xylene,14,0
+p-Xylene,15,1
+p-Xylene,16,1
+p-Xylene,17,0
+Pentachlorophenol,0,0
+Pentachlorophenol,1,1
+Pentachlorophenol,2,1
+Pentachlorophenol,3,1
+Pentachlorophenol,4,1
+Pentachlorophenol,5,1
+Pentachlorophenol,6,1
+Pentachlorophenol,7,1
+Pentachlorophenol,8,0
+Pentachlorophenol,9,1
+Pentachlorophenol,10,0
+Pentachlorophenol,11,0
+Pentachlorophenol,12,1
+Phenanthrene,0,1
+Phenanthrene,1,0
+Phenanthrene,2,1
+Phenanthrene,3,1
+Phenanthrene,4,0
+Phenanthrene,5,1
+Phenanthrene,6,1
+Phenanthrene,7,0
+Phenanthrene,8,1
+Phenanthrene,9,0
+Phenanthrene,10,0
+Phenanthrene,11,0
+Phenanthrene,12,0
+Phenanthrene,13,1
+Phenanthrene,14,0
+Phenanthrene,15,0
+Phenanthrene,16,0
+Phenanthrene,17,0
+Phenanthrene,18,0
+Phenanthrene,19,1
+Phenanthrene,20,1
+Phenanthrene,21,1
+Phenanthrene,22,1
+Phenanthrene,23,0
+Phenol,0,1
+Phenol,1,1
+Phenol,2,0
+Phenol,3,0
+Phenol,4,1
+Phenol,5,1
+Phenol,6,1
+Phenol,7,0
+Phenol,8,0
+Phenol,9,0
+Phenol,10,1
+Phenol,11,0
+Phenol,12,0
+Piperonal,0,1
+Piperonal,1,1
+Piperonal,2,1
+Piperonal,3,0
+Piperonal,4,0
+Piperonal,5,0
+Piperonal,6,1
+Piperonal,7,0
+Piperonal,8,1
+Piperonal,9,0
+Piperonal,10,1
+Piperonal,11,0
+Piperonal,12,0
+Piperonal,13,0
+Piperonal,14,0
+Piperonal,15,1
+Piperonal,16,1
+Propionic acid,0,0
+Propionic acid,1,0
+Propionic acid,2,1
+Propionic acid,3,1
+Propionic acid,4,0
+Propionic acid,5,1
+Propionic acid,6,0
+Propionic acid,7,1
+Propionic acid,8,0
+Propionic acid,9,0
+Propionic acid,10,0
+Resorcinol,0,1
+Resorcinol,1,0
+Resorcinol,2,0
+Resorcinol,3,1
+Resorcinol,4,1
+Resorcinol,5,1
+Resorcinol,6,0
+Resorcinol,7,1
+Resorcinol,8,0
+Resorcinol,9,1
+Resorcinol,10,1
+Resorcinol,11,1
+Resorcinol,12,0
+Resorcinol,13,0
+Styrene,0,1
+Styrene,1,0
+Styrene,2,0
+Styrene,3,1
+Styrene,4,1
+Styrene,5,1
+Styrene,6,0
+Styrene,7,1
+Styrene,8,0
+Styrene,9,0
+Styrene,10,0
+Styrene,11,1
+Styrene,12,0
+Styrene,13,1
+Styrene,14,1
+Styrene,15,1
+Succinic acid,0,1
+Succinic acid,1,1
+Succinic acid,2,0
+Succinic acid,3,0
+Succinic acid,4,0
+Succinic acid,5,1
+Succinic acid,6,1
+Succinic acid,7,1
+Succinic acid,8,1
+Succinic acid,9,0
+Succinic acid,10,1
+Succinic acid,11,0
+Succinic acid,12,1
+Succinic acid,13,1
+tert-Butylbenzene,0,1
+tert-Butylbenzene,1,0
+tert-Butylbenzene,2,0
+tert-Butylbenzene,3,1
+tert-Butylbenzene,4,1
+tert-Butylbenzene,5,0
+tert-Butylbenzene,6,1
+tert-Butylbenzene,7,0
+tert-Butylbenzene,8,0
+tert-Butylbenzene,9,1
+tert-Butylbenzene,10,1
+tert-Butylbenzene,11,0
+tert-Butylbenzene,12,1
+tert-Butylbenzene,13,0
+tert-Butylbenzene,14,1
+tert-Butylbenzene,15,0
+tert-Butylbenzene,16,1
+tert-Butylbenzene,17,0
+tert-Butylbenzene,18,1
+tert-Butylbenzene,19,0
+tert-Butylbenzene,20,0
+tert-Butylbenzene,21,0
+tert-Butylbenzene,22,1
+tert-Butylbenzene,23,1
+Toluene,0,0
+Toluene,1,0
+Toluene,2,0
+Toluene,3,0
+Toluene,4,0
+Toluene,5,0
+Toluene,6,1
+Toluene,7,0
+Toluene,8,1
+Toluene,9,1
+Toluene,10,0
+Toluene,11,0
+Toluene,12,1
+Toluene,13,0
+Toluene,14,1
+Valeric acid,0,1
+Valeric acid,1,0
+Valeric acid,2,1
+Valeric acid,3,0
+Valeric acid,4,1
+Valeric acid,5,0
+Valeric acid,6,1
+Valeric acid,7,1
+Valeric acid,8,0
+Valeric acid,9,0
+Valeric acid,10,1
+Valeric acid,11,0
+Valeric acid,12,0
+Valeric acid,13,0
+Valeric acid,14,1
+Valeric acid,15,0
+Valeric acid,16,0
+Vanillin,0,0
+Vanillin,1,1
+Vanillin,2,1
+Vanillin,3,0
+Vanillin,4,0
+Vanillin,5,1
+Vanillin,6,1
+Vanillin,7,1
+Vanillin,8,0
+Vanillin,9,0
+Vanillin,10,0
+Vanillin,11,1
+Vanillin,12,0
+Vanillin,13,1
+Vanillin,14,1
+Vanillin,15,0
+Vanillin,16,1
+Vanillin,17,0
+Vanillin,18,0

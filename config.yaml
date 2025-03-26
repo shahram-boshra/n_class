@@ -1,0 +1,28 @@
+rdkit_processing:
+  steps:
+    - hydrogenate
+    - sanitize
+    - kekulize
+    - embed
+    - optimize
+data:
+  root_dir: C:/Chem_Data
+  node_target_csv: targets_n_class.csv
+  use_cache: true
+  train_split: 0.8
+  valid_split: 0.1
+model:
+  batch_size: 64
+  learning_rate: 0.0070779431649418655
+  weight_decay: 1.0908657690794923e-05
+  step_size: 50
+  gamma: 0.5
+  reduce_lr_factor: 0.5
+  reduce_lr_patience: 10
+  early_stopping_patience: 20
+  early_stopping_delta: 0.001
+  l1_regularization_lambda: 0.006
+  first_layer_type: "Transformer"
+  hidden_channels: 512
+  second_layer_type: "Transformer"
+  dropout_rate: 0.176
