@@ -11,8 +11,7 @@ from config import Config, load_config
 from dataset import MGDataset
 from early_stopping import EarlyStopping
 from models import MGModel
-from training import Trainer, Plot, split_dataset
-
+from training import Trainer, Plot, split_dataset  # Import from training.py
 
 logging.basicConfig(
     level=logging.INFO,
@@ -21,16 +20,7 @@ logging.basicConfig(
     
 logger = logging.getLogger(__name__)
 
-
 if __name__ == '__main__':
-    from pathlib import Path
-    import torch
-    import torch.nn as nn
-    import torch.optim as optim
-    from torch.optim.lr_scheduler import StepLR, ReduceLROnPlateau
-    from torch_geometric.loader import DataLoader
-    import numpy as np
-
     data_dir = Path('C:/Chem_Data')
 
     config_path = data_dir / 'config.yaml'
@@ -38,8 +28,15 @@ if __name__ == '__main__':
 
     dataset = MGDataset(root=config.data.root_dir, node_target_csv=config.data.node_target_csv, use_cache=config.data.use_cache, rdkit_config=config)
 
+    node_classes = set()
+    for data in dataset:
+        if hasattr(data, 'y') and data.y is not None:
+            node_classes.update(data.y.tolist())
+    num_node_targets = len(node_classes)
+
+
     in_channels = dataset[0].x.shape[1]
-    out_channels = 2
+    out_channels = num_node_targets
 
     torch.manual_seed(11)
 
@@ -74,18 +71,17 @@ if __name__ == '__main__':
     logger.info(f"Using device: {device}")
 
     trainer = Trainer(model, criterion, optimizer, step_lr, red_lr, early_stopping, config, device)
-    train_losses, valid_losses, maes, mses, r2s, explained_variances = trainer.train_and_validate(train_loader, valid_loader)
-    test_loss, test_mae, test_mse, test_r2, test_explained_variance, test_targets, test_predictions = trainer.test_epoch(test_loader, return_predictions=True)
+    train_losses, valid_losses, accuracies, precisions, recalls, f1s, aucs = trainer.train_and_validate(train_loader, valid_loader)
+    test_loss, test_accuracy, test_precision, test_recall, test_f1, test_auc, test_targets, test_predictions = trainer.test_epoch(test_loader, return_predictions=True)
 
     # Save test targets and predictions
     np.save('test_targets.npy', np.array(test_targets))
     np.save('test_predictions.npy', np.array(test_predictions))
 
-    logger.info(f'Test Loss: {test_loss:.4f}, MAE: {test_mae:.4f}, MSE: {test_mse:.4f}, R2: {test_r2:.4f}, Explained Variance: {test_explained_variance:.4f}')
+    logger.info(f'Test Loss: {test_loss:.4f}, Accuracy: {test_accuracy:.4f}, Precision: {test_precision:.4f}, Recall: {test_recall:.4f}, F1: {test_f1:.4f}, AUC: {test_auc:.4f}')
 
     # Plotting
     Plot.plot_losses(train_losses, valid_losses)
-    Plot.plot_metrics_vs_epoch(maes, mses, r2s, explained_variances)
-
+    Plot.plot_classification_metrics_vs_epoch(accuracies, precisions, recalls, f1s, aucs)
 
     
